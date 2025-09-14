@@ -4,11 +4,11 @@
 
 ## The Importance of TorZon Mirror Links
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion
 
-[<img src="/local/toolbar.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/local/toolbar.webp" width="200">](http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/local/object.webp" alt="TorZon Mirror Links" style="max-width: 100%;"></a>
+<a href="http://torzon5g2amn6bjnhmhskcnttnn5cy5x4epy3red55glanfpce7o34yd.onion"><img src="/local/object.webp" alt="TorZon Mirror Links" style="max-width: 100%;"></a>
 
 This platform is for educational information. We do not support illegal activities.
 
@@ -38,3 +38,5 @@ This platform is for educational information. We do not support illegal activiti
 ### Disclaimer:
 
 The goal is to educate. We don't endorse any illegal acts.
+
+Update:  Sunday 14 September 2025
